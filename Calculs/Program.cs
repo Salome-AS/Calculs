@@ -17,6 +17,7 @@ namespace Calculs
             int solution; // calcul de la solution
             int reponse; // saisie de la réponse de l'utilisateur
             int choix; // saisie du choix de l'utilsiateur
+            bool correct //
 
             // boucle sur le menu
             choix = 1;
